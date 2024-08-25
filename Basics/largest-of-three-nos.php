@@ -1,0 +1,1 @@
+Check max and min of two numbers
